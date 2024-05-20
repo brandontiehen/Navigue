@@ -1,10 +1,1 @@
-/**
-	* "Navigue" - Version 2.0
-	* Developed/Revamped by Brandon Tiehen
-	* Copyright 2024 (c) All Rights Reserved.
-	* https://brandontiehen.github.io
-	* Insert: <body onLoad="landingPage()">
-	* Default Classes/IDs: #navigation, a.nav-a, (edit as necessary)
-	* Default sections: #landing #about, #portfolio, #contact, (edit as necessary)
-	* HTML & CSS Template (Useful, but optional) at bottom of this file. Not included in minified file.
-*/
+/*** Navigue - Responsive Navigation Plugin - Version 1.0* Copyright (c) Brandon Tiehen* Creation Date: February 17th, 2016* The software is provided as is and may be used for personal use (with attribution / credit to the developer (Brandon Tiehen));* Edits and modifications may be made to the class and ID selectors in order to make it compatable with your website. However, this software may not be downloaded and sold at a price.* To call function, declare the document.ready function and within that, call $(selector).navigue();*
